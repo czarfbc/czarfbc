@@ -1,7 +1,7 @@
 ### Oi! Eu sou Cézar Fernando 
 <div>
   <a href="https://github.com/czarfbc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=czarfbc&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarfbc&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 
