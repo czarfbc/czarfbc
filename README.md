@@ -9,5 +9,4 @@
   <a href="https://www.linkedin.com/in/cezar-fernando" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://cezarportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
-
-  ![Snake animation](https://github.com/czarfbc/czarfbc/blob/output/github-contribution-grid-snake.svg)
+  
